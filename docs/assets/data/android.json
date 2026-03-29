@@ -1,8 +1,7 @@
 {
-    "version": "4.0",
-    "name": "Info",
-    "id": "info04-05-24",
-    "text": "Willkommen zu ParkenUlm 4.0!\n Die App wurde komplett überarbeitet und bietet jetzt ein neues übersichtlicheres Design.\n Viel Spaß mit der App!",
-    "additionalinfo": ""
-  }
-  
+  "version": "4.0",
+  "name": "Info",
+  "id": "info04-05-24",
+  "text": "Willkommen zu ParkenUlm 4.0!",
+  "additionalinfo": ""
+}

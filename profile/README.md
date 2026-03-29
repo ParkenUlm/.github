@@ -1,28 +1,31 @@
 <div align="center">
-  <img width="500" src="https://github.com/ParkenUlm/.github/blob/main/docs/assets/github-header.png">
-  <br><br>
-</div>
+
+<img width="480" alt="ParkenUlm" src="../docs/assets/github-header.png">
+
+<br>
 
 # ParkenUlm
 
-<div align="center">
-<a href='https://play.google.com/store/apps/details?id=development.parkenulm'><img alt='Get it on Google Play' src='https://github.com/ParkenUlm/.github/blob/main/docs/assets/badges/badge_gp.svg' height='20%'/></a>
-</br>
-<a href='https://apps.apple.com/de/app/id6447651336'><img alt='Get it on the App Store' src='https://github.com/ParkenUlm/.github/blob/main/docs/assets/badges/badge_ios.svg' height='60px'/></a>
+_Live parking availability for garages in Ulm, Germany_
+
+<br>
+
+<table align="center" cellspacing="16" cellpadding="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=development.parkenulm"><img width="128" alt="Get it on Google Play" src="../docs/assets/badges/badge_gp.png"></a></td>
+      <td align="center" valign="middle"><a href="https://apps.apple.com/de/app/id6447651336"><img width="128" alt="Download on the App Store" src="../docs/assets/badges/badge_ios.png"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
+## About
 
-## About The Project
+A small app to see current usage of parking garages in Ulm, Germany. Data is provided by the city of Ulm.
 
-A small App to see the current usage of the parking garages in Ulm, Germany.  
-The data is provided by the city of Ulm.  
-
-## Privacy Policies
-
-- [Android](https://github.com/bircni/bircni/blob/master/privacy/ParkenUlm-Android.md)
-- [iOS](https://github.com/bircni/bircni/blob/master/privacy/ParkenUlm-iOS.md)
-
-## Thanks to
+## Thanks
 
 - [@Parken in Ulm](https://www.parken-in-ulm.de/) for the data
-- [@BBBlakee](https://github.com/BBBlakee) for the redesign of the Android App
+- [@BBBlakee](https://github.com/BBBlakee) for the redesign of the Android app
